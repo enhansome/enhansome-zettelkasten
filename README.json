@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T00:01:40Z",
+            "last_commit": "2026-08-18T21:03:11Z",
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8361
+            "stars": 8364
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-02-03T12:32:15Z",
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6299
+            "stars": 6298
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-03T23:33:33Z",
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2764
+            "stars": 2767
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-15T02:18:51Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1546
+            "stars": 1554
           }
         },
         {
@@ -292,7 +292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:10:26.276Z",
+    "last_updated": "2026-08-19T03:12:39.935Z",
     "original_repository": "fhoehl/awesome-zettelkasten",
     "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
     "enhanced_repository": "enhansome/enhansome-zettelkasten",
