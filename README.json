@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T01:56:48Z",
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8365
+            "stars": 8366
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-02-03T12:32:15Z",
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6298
+            "stars": 6299
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-03T23:33:33Z",
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2768
+            "stars": 2770
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T02:18:51Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1559
+            "stars": 1562
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2025-11-19T11:17:08Z",
             "owner": "michal-h21",
             "repo": "vim-zettel",
-            "stars": 590
+            "stars": 589
           }
         },
         {
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:11:39.626Z",
+    "last_updated": "2026-08-21T03:18:07.813Z",
     "original_repository": "fhoehl/awesome-zettelkasten",
     "original_repository_id": 277084759,
     "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
