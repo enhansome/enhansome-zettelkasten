@@ -17,12 +17,12 @@
 ### Apps
 
 * [nb](https://github.com/xwmx/nb) ⭐ 8,372 | 🐛 151 | 🌐 Shell | 📅 2026-08-22
-* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,465 | 🐛 800 | 🌐 TypeScript | 📅 2025-11-13
-* [Athens](https://github.com/athensresearch/athens) ⭐ 6,299 | 🐛 316 | 🌐 Clojure | 📅 2023-02-03
+* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,463 | 🐛 800 | 🌐 TypeScript | 📅 2025-11-13
+* [Athens](https://github.com/athensresearch/athens) ⭐ 6,300 | 🐛 316 | 🌐 Clojure | 📅 2023-02-03
 * [zk](https://github.com/zk-org/zk) ⭐ 2,773 | 🐛 25 | 🌐 Go | 📅 2026-08-03. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,570 | 🐛 3 | 🌐 Rust | 📅 2026-08-24
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,571 | 🐛 5 | 🌐 Rust | 📅 2026-08-24
 * [Sublimeless\_ZK](https://github.com/renerocksai/sublimeless_zk) ⭐ 203 | 🐛 40 | 🌐 Python | 📅 2019-02-03
-* [zknotes](https://github.com/bburdette/zknotes) ⭐ 23 | 🐛 2 | 🌐 Elm | 📅 2026-07-28
+* [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-07-28
 * [Amplenote](https://www.amplenote.com)
 * [Bear](https://bear.app)
 * [ConnectedText](http://www.connectedtext.com/)

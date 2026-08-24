@@ -30,7 +30,7 @@
             "last_commit": "2025-11-13T05:31:19Z",
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7465
+            "stars": 7463
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-02-03T12:32:15Z",
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6299
+            "stars": 6300
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T02:06:07Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1570
+            "stars": 1571
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-28T18:01:17Z",
             "owner": "bburdette",
             "repo": "zknotes",
-            "stars": 23
+            "stars": 24
           }
         }
       ],
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:18:16.803Z",
+    "last_updated": "2026-08-24T14:41:36.899Z",
     "original_repository": "fhoehl/awesome-zettelkasten",
     "original_repository_id": 277084759,
     "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
