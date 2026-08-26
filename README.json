@@ -12,10 +12,10 @@
             "archived": false,
             "id": 49516849,
             "language": "Shell",
-            "last_commit": "2026-08-22T18:22:29Z",
+            "last_commit": "2026-08-26T00:51:47Z",
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8374
+            "stars": 8376
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T23:37:19Z",
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T23:00:42Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1572
+            "stars": 1573
           }
         },
         {
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:23.272Z",
+    "last_updated": "2026-08-26T03:26:59.298Z",
     "original_repository": "fhoehl/awesome-zettelkasten",
     "original_repository_id": 277084759,
     "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
