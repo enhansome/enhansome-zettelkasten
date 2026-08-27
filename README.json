@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T00:51:47Z",
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8376
+            "stars": 8377
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-11-13T05:31:19Z",
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7463
+            "stars": 7465
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-02-03T12:32:15Z",
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6300
+            "stars": 6301
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T23:00:42Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1573
+            "stars": 1576
           }
         },
         {
@@ -311,9 +311,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:26:59.298Z",
-    "original_repository": "fhoehl/awesome-zettelkasten",
-    "original_repository_id": 277084759,
+    "last_updated": "2026-08-27T12:13:45.774Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 277084759,
+      "language": null,
+      "last_commit": "2026-05-10T17:57:02Z",
+      "owner": "fhoehl",
+      "repo": "awesome-zettelkasten",
+      "stars": 104
+    },
     "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
     "enhanced_repository": "enhansome/enhansome-zettelkasten",
     "enhanced_repository_description": null,
