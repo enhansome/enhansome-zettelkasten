@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T00:51:47Z",
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8377
-          }
+            "stars": 8380
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dendronhq",
             "repo": "dendron",
             "stars": 7465
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "athensresearch",
             "repo": "athens",
             "stars": 6301
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-24T23:37:19Z",
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2777
-          }
+            "stars": 2776
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 860188605,
             "language": "Rust",
-            "last_commit": "2026-08-24T23:00:42Z",
+            "last_commit": "2026-08-28T11:59:35Z",
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1576
-          }
+            "stars": 1581
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "renerocksai",
             "repo": "sublimeless_zk",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "bburdette",
             "repo": "zknotes",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         }
       ],
       "title": "Apps"
@@ -127,7 +134,8 @@
             "owner": "nobiot",
             "repo": "md-roam",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "hasu",
             "repo": "notdeft",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "felko",
             "repo": "neuron-mode",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "vifon",
             "repo": "zettel-mode",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         }
       ],
       "title": "Emacs"
@@ -193,7 +204,8 @@
             "owner": "michal-h21",
             "repo": "vim-zettel",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "oberblastmeister",
             "repo": "neuron.nvim",
             "stars": 395
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "KevinBockelandt",
             "repo": "notoire",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         }
       ],
       "title": "Vim"
@@ -244,7 +258,8 @@
             "owner": "MatthieuBizien",
             "repo": "roam-to-git",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "Maxence-L",
             "repo": "notenote.link",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "lggruspe",
             "repo": "slipbox",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "BasilPH",
             "repo": "vizel",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         },
         {
           "node_type": "item",
@@ -304,14 +322,15 @@
             "owner": "johntrandall",
             "repo": "zk-reindex-launchd",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:23:14.400Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:50:12.607Z",
+    "last_updated": "2026-08-28T14:23:14.400Z",
     "original_repository_info": {
       "archived": false,
       "id": 277084759,
