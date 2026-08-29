@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+            "homepage": "https://xwmx.github.io/nb",
             "id": 49516849,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T00:51:47Z",
+            "open_issues": 151,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8380
+            "stars": 8381,
+            "topics": [
+              "archiving",
+              "bash",
+              "bookmark-manager",
+              "bookmarks",
+              "cli",
+              "command-line",
+              "git",
+              "knowledge-base",
+              "markdown",
+              "note-taking",
+              "notebook",
+              "notes",
+              "notes-app",
+              "pandoc",
+              "productivity",
+              "shell",
+              "sync",
+              "vim",
+              "vscode",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -26,12 +52,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The personal knowledge management (PKM) tool that grows as you do!",
+            "homepage": "https://wiki.dendron.so",
             "id": 274724694,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-13T05:31:19Z",
+            "open_issues": 800,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7465
+            "stars": 7464,
+            "topics": [
+              "dendron",
+              "markdown",
+              "markdown-editor",
+              "pkm",
+              "vscode",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -42,12 +80,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21",
+            "homepage": "https://athensresearch.github.io/athens",
             "id": 251469970,
             "language": "Clojure",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-03T12:32:15Z",
+            "open_issues": 316,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6301
+            "stars": 6301,
+            "topics": [
+              "hacktoberfest",
+              "knowledge-base",
+              "knowledge-graph",
+              "knowledge-management",
+              "memex",
+              "notetaking",
+              "tools-for-thought"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -58,12 +109,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plain text note-taking assistant",
+            "homepage": "https://zk-org.github.io/zk/",
             "id": 323932509,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T23:37:19Z",
+            "open_issues": 26,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2776
+            "stars": 2776,
+            "topics": [
+              "cli",
+              "documentation-tool",
+              "notes",
+              "second-brain",
+              "wiki",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -74,12 +137,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown knowledge graph — LSP for your editor, CLI + MCP memory for your AI agents",
+            "homepage": "https://iwe.md",
             "id": 860188605,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:59:35Z",
+            "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1581
+            "stars": 1582,
+            "topics": [
+              "ai-agents",
+              "ai-memory",
+              "cli",
+              "helix",
+              "knowledge-graph",
+              "knowledge-management",
+              "language-server",
+              "local-first",
+              "lsp",
+              "markdown",
+              "mcp",
+              "neovim",
+              "note-taking",
+              "notes",
+              "okf",
+              "pkm",
+              "productivity",
+              "rust",
+              "zed",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -90,12 +179,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, support for note templates, bibliography support, etc. to make working in your Zettelkasten a joy 😄",
+            "homepage": null,
             "id": 129526586,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-02-03T10:29:20Z",
+            "open_issues": 40,
             "owner": "renerocksai",
             "repo": "sublimeless_zk",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "markdown",
+              "markdown-editor",
+              "note-taking",
+              "wiki",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -106,12 +206,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zettelkasten implemented in rust, elm",
+            "homepage": "https://www.zknotes.com",
             "id": 280745117,
             "language": "Elm",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T18:01:17Z",
+            "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "elm",
+              "rust",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         }
@@ -128,12 +237,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.",
+            "homepage": null,
             "id": 249169624,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-19T13:30:52Z",
+            "open_issues": 9,
             "owner": "nobiot",
             "repo": "md-roam",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "emacs",
+              "markdown",
+              "org-roam",
+              "pkm",
+              "roam",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -144,12 +265,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NotDeft note manager for Emacs",
+            "homepage": "https://tero.hasu.is/notdeft/",
             "id": 111118057,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-09T17:29:19Z",
+            "open_issues": 6,
             "owner": "hasu",
             "repo": "notdeft",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "emacs",
+              "emacs-mode",
+              "note-taking",
+              "org-mode",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -160,12 +292,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An emacs mode for editing Zettelkasten notes with neuron",
+            "homepage": null,
             "id": 251012577,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-18T08:27:34Z",
+            "open_issues": 13,
             "owner": "felko",
             "repo": "neuron-mode",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "emacs",
+              "emacs-lisp",
+              "emacs-mode",
+              "markdown",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -176,12 +319,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Zettelkasten-style note-taking helper",
+            "homepage": null,
             "id": 266890129,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-26T23:36:16Z",
+            "open_issues": 0,
             "owner": "vifon",
             "repo": "zettel-mode",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "emacs",
+              "org-mode",
+              "roam",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         }
@@ -198,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VimWiki addon for managing notes according to Zettelkasten method",
+            "homepage": null,
             "id": 95222835,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2025-11-19T11:17:08Z",
+            "open_issues": 54,
             "owner": "michal-h21",
             "repo": "vim-zettel",
-            "stars": 588
+            "stars": 588,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -214,12 +372,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Make neovim the best note taking application",
+            "homepage": null,
             "id": 326041736,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-02-27T00:34:45Z",
+            "open_issues": 21,
             "owner": "oberblastmeister",
             "repo": "neuron.nvim",
-            "stars": 395
+            "stars": 395,
+            "topics": [
+              "asynchronous",
+              "lua",
+              "markdown",
+              "neovim",
+              "neovim-plugin",
+              "notes",
+              "plenary",
+              "wiki",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -230,12 +403,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A vim plugin to take notes using the Zettelkasten method",
+            "homepage": null,
             "id": 243999671,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2021-04-05T12:27:06Z",
+            "open_issues": 4,
             "owner": "KevinBockelandt",
             "repo": "notoire",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "note-taking",
+              "vim-plugin",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         }
@@ -252,12 +434,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic RoamResearch backup to Git",
+            "homepage": null,
             "id": 243395909,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-31T17:51:36Z",
+            "open_issues": 20,
             "owner": "MatthieuBizien",
             "repo": "roam-to-git",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "backlink",
+              "backup",
+              "cron",
+              "export",
+              "github",
+              "roam",
+              "roamresearch",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -268,12 +464,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.",
+            "homepage": "https://notenote.link",
             "id": 303758838,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-10-15T16:29:12Z",
+            "open_issues": 7,
             "owner": "Maxence-L",
             "repo": "notenote.link",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "digital-garden",
+              "jekyll",
+              "notes",
+              "obsidian",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -284,12 +491,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A static site generator for Zettelkasten notes",
+            "homepage": "https://lggruspe.github.io/slipbox",
             "id": 251299948,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-16T14:24:55Z",
+            "open_issues": 8,
             "owner": "lggruspe",
             "repo": "slipbox",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "cli",
+              "issue-mapping",
+              "issue-trees",
+              "knowledge-base",
+              "knowledge-graph",
+              "markdown",
+              "notes",
+              "pandoc",
+              "personal-knowledge-base",
+              "python",
+              "static-site-generator",
+              "text-search",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -300,12 +526,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zettelkasten visualization and stats🤩🗒",
+            "homepage": null,
             "id": 252541565,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-28T03:37:05Z",
+            "open_issues": 9,
             "owner": "BasilPH",
             "repo": "vizel",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-representation",
+              "plaintext",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         },
@@ -316,12 +553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-reindex all your zk notebooks on macOS via a single LaunchAgent. Polls every 5 min, auto-discovers, costs ~nothing on idle.",
+            "homepage": null,
             "id": 1224788085,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-30T16:33:32Z",
+            "open_issues": 0,
             "owner": "johntrandall",
             "repo": "zk-reindex-launchd",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
         }
@@ -330,15 +572,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:23:14.400Z",
+    "last_updated": "2026-08-29T04:57:10.097Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome Zettelkasten resources.",
+      "homepage": null,
       "id": 277084759,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-10T17:57:02Z",
+      "open_issues": 4,
       "owner": "fhoehl",
       "repo": "awesome-zettelkasten",
-      "stars": 104
+      "stars": 104,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "zettelkasten"
+      ]
     },
     "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
     "enhanced_repository": "enhansome/enhansome-zettelkasten",
