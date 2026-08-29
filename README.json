@@ -146,7 +146,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:10.097Z",
+    "last_updated": "2026-08-29T09:05:42.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",

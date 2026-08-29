@@ -20,7 +20,7 @@
 * [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,464 | 🐛 800 | 🌐 TypeScript | 📅 2025-11-13
 * [Athens](https://github.com/athensresearch/athens) ⭐ 6,301 | 🐛 316 | 🌐 Clojure | 📅 2023-02-03
 * [zk](https://github.com/zk-org/zk) ⭐ 2,776 | 🐛 26 | 🌐 Go | 📅 2026-08-24. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,582 | 🐛 1 | 🌐 Rust | 📅 2026-08-28
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,583 | 🐛 1 | 🌐 Rust | 📅 2026-08-28
 * [Sublimeless\_ZK](https://github.com/renerocksai/sublimeless_zk) ⭐ 203 | 🐛 40 | 🌐 Python | 📅 2019-02-03
 * [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-07-28
 * [Amplenote](https://www.amplenote.com)
