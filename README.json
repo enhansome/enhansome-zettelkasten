@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8381,
+            "stars": 8384,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 800,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7464,
+            "stars": 7465,
             "topics": [
               "dendron",
               "markdown",
@@ -86,10 +86,10 @@
             "language": "Clojure",
             "license": "NOASSERTION",
             "last_commit": "2023-02-03T12:32:15Z",
-            "open_issues": 316,
+            "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6301,
+            "stars": 6302,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 26,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2776,
+            "stars": 2777,
             "topics": [
               "cli",
               "documentation-tool",
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T11:59:35Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-30T02:52:06Z",
+            "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1583,
+            "stars": 1590,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:05:42.200Z",
+    "last_updated": "2026-08-30T08:20:50.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
