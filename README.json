@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8389,
+            "stars": 8390,
             "topics": [
               "archiving",
               "bash",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6302,
+            "stars": 6303,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 26,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2780,
+            "stars": 2782,
             "topics": [
               "cli",
               "documentation-tool",
@@ -146,7 +146,7 @@
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1609,
+            "stars": 1613,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -473,7 +473,7 @@
             "open_issues": 7,
             "owner": "Maxence-L",
             "repo": "notenote.link",
-            "stars": 164,
+            "stars": 163,
             "topics": [
               "digital-garden",
               "jekyll",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:08:01.519Z",
+    "last_updated": "2026-09-03T07:12:24.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
