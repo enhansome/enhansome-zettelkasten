@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8396,
+            "stars": 8397,
             "topics": [
               "archiving",
               "bash",
@@ -118,7 +118,7 @@
             "open_issues": 27,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2785,
+            "stars": 2787,
             "topics": [
               "cli",
               "documentation-tool",
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T01:44:06Z",
+            "last_commit": "2026-09-06T09:28:08Z",
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1625,
+            "stars": 1627,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:09:28.609Z",
+    "last_updated": "2026-09-07T07:21:47.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
