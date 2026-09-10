@@ -16,7 +16,7 @@
             "language": "Shell",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-26T00:51:47Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "xwmx",
             "repo": "nb",
             "stars": 8401,
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6302,
+            "stars": 6301,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 27,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2789,
+            "stars": 2793,
             "topics": [
               "cli",
               "documentation-tool",
@@ -146,7 +146,7 @@
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1631,
+            "stars": 1633,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -360,7 +360,7 @@
             "open_issues": 54,
             "owner": "michal-h21",
             "repo": "vim-zettel",
-            "stars": 588,
+            "stars": 587,
             "topics": []
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:24:53.985Z",
+    "last_updated": "2026-09-10T07:20:06.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
