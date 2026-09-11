@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-26T00:51:47Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8401,
+            "stars": 8402,
             "topics": [
               "archiving",
               "bash",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6301,
+            "stars": 6302,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 27,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2793,
+            "stars": 2795,
             "topics": [
               "cli",
               "documentation-tool",
@@ -146,7 +146,7 @@
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1633,
+            "stars": 1634,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:20:06.501Z",
+    "last_updated": "2026-09-11T07:18:50.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
@@ -581,7 +581,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-10T17:57:02Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "fhoehl",
       "repo": "awesome-zettelkasten",
       "stars": 104,
