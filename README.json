@@ -118,7 +118,7 @@
             "open_issues": 24,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2795,
+            "stars": 2796,
             "topics": [
               "cli",
               "documentation-tool",
@@ -146,7 +146,7 @@
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1638,
+            "stars": 1642,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -381,7 +381,7 @@
             "open_issues": 21,
             "owner": "oberblastmeister",
             "repo": "neuron.nvim",
-            "stars": 395,
+            "stars": 394,
             "topics": [
               "asynchronous",
               "lua",
@@ -535,7 +535,7 @@
             "open_issues": 9,
             "owner": "BasilPH",
             "repo": "vizel",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "knowledge-graph",
               "knowledge-management",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:29:49.291Z",
+    "last_updated": "2026-09-14T07:55:58.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
