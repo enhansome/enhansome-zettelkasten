@@ -61,7 +61,7 @@
             "open_issues": 800,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7467,
+            "stars": 7468,
             "topics": [
               "dendron",
               "markdown",
@@ -115,10 +115,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-12T08:42:29Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2796,
+            "stars": 2799,
             "topics": [
               "cli",
               "documentation-tool",
@@ -211,7 +211,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-28T18:01:17Z",
+            "last_commit": "2026-09-14T23:44:57Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:55:58.253Z",
+    "last_updated": "2026-09-15T07:48:12.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
