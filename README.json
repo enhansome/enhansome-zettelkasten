@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8406,
+            "stars": 8408,
             "topics": [
               "archiving",
               "bash",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6300,
+            "stars": 6299,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -142,7 +142,7 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T15:38:53Z",
+            "last_commit": "2026-09-16T23:49:46Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:43:22.873Z",
+    "last_updated": "2026-09-17T07:43:45.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
