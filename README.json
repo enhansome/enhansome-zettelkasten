@@ -61,7 +61,7 @@
             "open_issues": 800,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7468,
+            "stars": 7467,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6299,
+            "stars": 6298,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 24,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2802,
+            "stars": 2805,
             "topics": [
               "cli",
               "documentation-tool",
@@ -146,7 +146,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1649,
+            "stars": 1653,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -246,7 +246,7 @@
             "open_issues": 9,
             "owner": "nobiot",
             "repo": "md-roam",
-            "stars": 374,
+            "stars": 373,
             "topics": [
               "emacs",
               "markdown",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:26:19.406Z",
+    "last_updated": "2026-09-19T07:22:11.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
