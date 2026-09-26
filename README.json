@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8413,
+            "stars": 8414,
             "topics": [
               "archiving",
               "bash",
@@ -86,10 +86,10 @@
             "language": "Clojure",
             "license": "NOASSERTION",
             "last_commit": "2023-02-03T12:32:15Z",
-            "open_issues": 318,
+            "open_issues": 319,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6298,
+            "stars": 6297,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 26,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2814,
+            "stars": 2815,
             "topics": [
               "cli",
               "documentation-tool",
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T19:18:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-26T00:21:39Z",
+            "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:53:06.607Z",
+    "last_updated": "2026-09-26T07:46:18.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
