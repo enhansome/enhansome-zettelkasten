@@ -58,10 +58,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2025-11-13T05:31:19Z",
-            "open_issues": 800,
+            "open_issues": 801,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7469,
+            "stars": 7470,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 26,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2815,
+            "stars": 2816,
             "topics": [
               "cli",
               "documentation-tool",
@@ -146,7 +146,7 @@
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1728,
+            "stars": 1729,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:15:06.689Z",
+    "last_updated": "2026-09-28T08:44:02.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
