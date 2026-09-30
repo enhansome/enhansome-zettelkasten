@@ -16,11 +16,11 @@
 
 ### Apps
 
-* [nb](https://github.com/xwmx/nb) ⭐ 8,417 | 🐛 153 | 🌐 Shell | 📅 2026-08-26
-* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,472 | 🐛 801 | 🌐 TypeScript | 📅 2025-11-13
+* [nb](https://github.com/xwmx/nb) ⭐ 8,418 | 🐛 153 | 🌐 Shell | 📅 2026-08-26
+* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,473 | 🐛 800 | 🌐 TypeScript | 📅 2025-11-13
 * [Athens](https://github.com/athensresearch/athens) ⭐ 6,295 | 🐛 318 | 🌐 Clojure | 📅 2023-02-03
 * [zk](https://github.com/zk-org/zk) ⭐ 2,816 | 🐛 27 | 🌐 Go | 📅 2026-09-12. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,733 | 🐛 0 | 🌐 Rust | 📅 2026-09-26
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,737 | 🐛 0 | 🌐 Rust | 📅 2026-09-26
 * [Sublimeless\_ZK](https://github.com/renerocksai/sublimeless_zk) ⭐ 203 | 🐛 40 | 🌐 Python | 📅 2019-02-03
 * [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-09-15
 * [Amplenote](https://www.amplenote.com)
@@ -88,7 +88,7 @@
 
 ## Misc
 
-* [roam-to-git](https://github.com/MatthieuBizien/roam-to-git) ⭐ 553 | 🐛 20 | 🌐 Python | 📅 2024-10-31. Automatic RoamResearch backup.
+* [roam-to-git](https://github.com/MatthieuBizien/roam-to-git) ⭐ 552 | 🐛 20 | 🌐 Python | 📅 2024-10-31. Automatic RoamResearch backup.
 * [notenote.link](https://github.com/Maxence-L/notenote.link) ⭐ 163 | 🐛 7 | 🌐 HTML | 📅 2022-10-15. A [Jekyll](https://jekyllrb.com) digital garden template, optimized for integration with [Obsidian](https://obsidian.md).
 * [slipbox](https://github.com/lggruspe/slipbox) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2023-09-16. A static site generator for Zettelkasten notes.
 * [vizel](https://github.com/BasilPH/vizel) ⭐ 60 | 🐛 9 | 🌐 Python | 📅 2024-02-28. See the stats and connections of your Zettelkasten.
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

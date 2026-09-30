@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8417,
+            "stars": 8418,
             "topics": [
               "archiving",
               "bash",
@@ -58,10 +58,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2025-11-13T05:31:19Z",
-            "open_issues": 801,
+            "open_issues": 800,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7472,
+            "stars": 7473,
             "topics": [
               "dendron",
               "markdown",
@@ -146,7 +146,7 @@
             "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1733,
+            "stars": 1737,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -443,7 +443,7 @@
             "open_issues": 20,
             "owner": "MatthieuBizien",
             "repo": "roam-to-git",
-            "stars": 553,
+            "stars": 552,
             "topics": [
               "backlink",
               "backup",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:35:45.747Z",
+    "last_updated": "2026-09-30T08:37:47.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
