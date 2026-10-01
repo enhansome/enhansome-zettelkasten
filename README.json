@@ -118,7 +118,7 @@
             "open_issues": 27,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2816,
+            "stars": 2820,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,10 +143,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-26T12:16:06Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1737,
+            "stars": 1738,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -246,7 +246,7 @@
             "open_issues": 9,
             "owner": "nobiot",
             "repo": "md-roam",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "emacs",
               "markdown",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T08:37:47.906Z",
+    "last_updated": "2026-10-01T09:00:08.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
