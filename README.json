@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "nb",
-          "description": null,
+          "description": "xwmx/nb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8418,
+            "stars": 8419,
             "topics": [
               "archiving",
               "bash",
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Dendron",
-          "description": null,
+          "description": "dendronhq/dendron",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "Athens",
-          "description": null,
+          "description": "athensresearch/athens",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -118,7 +118,7 @@
             "open_issues": 28,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2823,
+            "stars": 2825,
             "topics": [
               "cli",
               "documentation-tool",
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "IWE",
-          "description": null,
+          "description": "iwe-org/iwe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T12:16:06Z",
+            "last_commit": "2026-10-02T11:55:58Z",
             "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1740,
+            "stars": 1744,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "Sublimeless_ZK",
-          "description": null,
+          "description": "renerocksai/sublimeless_zk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +202,7 @@
         {
           "node_type": "item",
           "title": "zknotes",
-          "description": null,
+          "description": "bburdette/zknotes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -233,7 +233,7 @@
         {
           "node_type": "item",
           "title": "md-roam",
-          "description": null,
+          "description": "nobiot/md-roam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,7 +246,7 @@
             "open_issues": 9,
             "owner": "nobiot",
             "repo": "md-roam",
-            "stars": 374,
+            "stars": 373,
             "topics": [
               "emacs",
               "markdown",
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "NotDeft",
-          "description": null,
+          "description": "hasu/notdeft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -288,7 +288,7 @@
         {
           "node_type": "item",
           "title": "neuron-mode",
-          "description": null,
+          "description": "felko/neuron-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "zettel-mode",
-          "description": null,
+          "description": "vifon/zettel-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -347,7 +347,7 @@
         {
           "node_type": "item",
           "title": "vim-zettel",
-          "description": null,
+          "description": "michal-h21/vim-zettel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -368,7 +368,7 @@
         {
           "node_type": "item",
           "title": "neuron.nvim",
-          "description": null,
+          "description": "oberblastmeister/neuron.nvim",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -399,7 +399,7 @@
         {
           "node_type": "item",
           "title": "Notoire",
-          "description": null,
+          "description": "KevinBockelandt/notoire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:35:41.951Z",
+    "last_updated": "2026-10-03T05:13:56.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
