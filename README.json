@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8419,
+            "stars": 8421,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 800,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7472,
+            "stars": 7471,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6295,
+            "stars": 6294,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 28,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2825,
+            "stars": 2827,
             "topics": [
               "cli",
               "documentation-tool",
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:55:58Z",
+            "last_commit": "2026-10-03T19:29:08Z",
             "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1744,
+            "stars": 1746,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -211,7 +211,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T17:17:40Z",
+            "last_commit": "2026-10-03T21:00:40Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -360,7 +360,7 @@
             "open_issues": 54,
             "owner": "michal-h21",
             "repo": "vim-zettel",
-            "stars": 587,
+            "stars": 586,
             "topics": []
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:10:57.898Z",
+    "last_updated": "2026-10-04T08:29:18.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
