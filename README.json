@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8417,
+            "stars": 8418,
             "topics": [
               "archiving",
               "bash",
@@ -58,10 +58,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2025-11-13T05:31:19Z",
-            "open_issues": 800,
+            "open_issues": 801,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7469,
+            "stars": 7468,
             "topics": [
               "dendron",
               "markdown",
@@ -115,10 +115,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-12T08:42:29Z",
-            "open_issues": 29,
+            "open_issues": 40,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2825,
+            "stars": 2826,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,10 +143,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T12:36:42Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1748,
+            "stars": 1751,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -274,7 +274,7 @@
             "open_issues": 6,
             "owner": "hasu",
             "repo": "notdeft",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "emacs",
               "emacs-mode",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:09:15.328Z",
+    "last_updated": "2026-10-06T09:02:14.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
