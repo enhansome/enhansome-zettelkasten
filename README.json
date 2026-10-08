@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8418,
+            "stars": 8417,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 801,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7469,
+            "stars": 7468,
             "topics": [
               "dendron",
               "markdown",
@@ -114,11 +114,11 @@
             "id": 323932509,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T08:42:29Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-08T06:50:51Z",
+            "open_issues": 34,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2828,
+            "stars": 2831,
             "topics": [
               "cli",
               "documentation-tool",
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T00:41:39Z",
+            "last_commit": "2026-10-08T01:30:41Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1752,
+            "stars": 1753,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -211,7 +211,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T23:50:31Z",
+            "last_commit": "2026-10-07T17:30:16Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T08:44:00.090Z",
+    "last_updated": "2026-10-08T09:02:32.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
