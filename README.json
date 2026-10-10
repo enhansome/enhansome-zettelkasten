@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8422,
+            "stars": 8423,
             "topics": [
               "archiving",
               "bash",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6293,
+            "stars": 6292,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -114,8 +114,8 @@
             "id": 323932509,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T06:50:51Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-09T12:42:06Z",
+            "open_issues": 33,
             "owner": "zk-org",
             "repo": "zk",
             "stars": 2833,
@@ -146,7 +146,7 @@
             "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1755,
+            "stars": 1757,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -211,7 +211,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T15:23:58Z",
+            "last_commit": "2026-10-09T22:03:45Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -572,7 +572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:09:38.202Z",
+    "last_updated": "2026-10-10T08:33:06.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
