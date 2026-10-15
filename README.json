@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8428,
+            "stars": 8430,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 801,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7467,
+            "stars": 7466,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6294,
+            "stars": 6295,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 35,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2836,
+            "stars": 2837,
             "topics": [
               "cli",
               "documentation-tool",
@@ -142,11 +142,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T12:23:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-15T02:02:37Z",
+            "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1771,
+            "stars": 1774,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -211,7 +211,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T21:52:10Z",
+            "last_commit": "2026-10-14T21:10:25Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -223,6 +223,39 @@
             ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nostos",
+          "description": "Christian-Gennari/Nostos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A home for your reading life. Read your books, capture what stays with you, and turn your reading into thought and writing in one self-hosted study.",
+            "homepage": "nostos.page",
+            "id": 1104105962,
+            "language": "C#",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-15T05:32:24Z",
+            "open_issues": 3,
+            "owner": "Christian-Gennari",
+            "repo": "Nostos",
+            "stars": 7,
+            "topics": [
+              "angular",
+              "audiobooks",
+              "dotnet",
+              "epub-reader",
+              "local-first",
+              "pdf-viewer",
+              "pkm",
+              "reading",
+              "self-hosted",
+              "sqlite",
+              "writing"
+            ]
+          },
+          "first_seen": "2026-10-15T07:29:36.525Z"
         }
       ],
       "title": "Apps"
@@ -301,7 +334,7 @@
             "open_issues": 13,
             "owner": "felko",
             "repo": "neuron-mode",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "emacs",
               "emacs-lisp",
@@ -572,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T07:41:23.059Z",
+    "last_updated": "2026-10-15T07:29:36.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
@@ -580,18 +613,18 @@
       "id": 277084759,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-10T17:57:02Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-14T21:10:25Z",
+      "open_issues": 3,
       "owner": "fhoehl",
       "repo": "awesome-zettelkasten",
-      "stars": 104,
+      "stars": 105,
       "topics": [
         "awesome",
         "awesome-list",
         "zettelkasten"
       ]
     },
-    "original_repository_sha": "76735ca97b40f4c0e74dfafe18636056b9b2da0e",
+    "original_repository_sha": "323929b5b639b74ffa451216fcfe72ad953dac2d",
     "enhanced_repository": "enhansome/enhansome-zettelkasten",
     "enhanced_repository_description": null,
     "title": "Awesome Zettelkasten with stars"

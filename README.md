@@ -16,13 +16,14 @@
 
 ### Apps
 
-* [nb](https://github.com/xwmx/nb) ⭐ 8,428 | 🐛 153 | 🌐 Shell | 📅 2026-08-26
-* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,467 | 🐛 801 | 🌐 TypeScript | 📅 2025-11-13
-* [Athens](https://github.com/athensresearch/athens) ⭐ 6,294 | 🐛 318 | 🌐 Clojure | 📅 2023-02-03
-* [zk](https://github.com/zk-org/zk) ⭐ 2,836 | 🐛 35 | 🌐 Go | 📅 2026-10-09. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,771 | 🐛 1 | 🌐 Rust | 📅 2026-10-08
+* [nb](https://github.com/xwmx/nb) ⭐ 8,430 | 🐛 153 | 🌐 Shell | 📅 2026-08-26
+* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,466 | 🐛 801 | 🌐 TypeScript | 📅 2025-11-13
+* [Athens](https://github.com/athensresearch/athens) ⭐ 6,295 | 🐛 318 | 🌐 Clojure | 📅 2023-02-03
+* [zk](https://github.com/zk-org/zk) ⭐ 2,837 | 🐛 35 | 🌐 Go | 📅 2026-10-09. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,774 | 🐛 2 | 🌐 Rust | 📅 2026-10-15
 * [Sublimeless\_ZK](https://github.com/renerocksai/sublimeless_zk) ⭐ 204 | 🐛 40 | 🌐 Python | 📅 2019-02-03
-* [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-10-13
+* [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-10-14
+* [Nostos](https://github.com/Christian-Gennari/Nostos) ⭐ 7 | 🐛 3 | 🌐 C# | 📅 2026-10-15
 * [Amplenote](https://www.amplenote.com)
 * [Bear](https://bear.app)
 * [ConnectedText](http://www.connectedtext.com/)
@@ -51,7 +52,7 @@
 
 * [md-roam](https://github.com/nobiot/md-roam) ⭐ 373 | 🐛 9 | 🌐 Emacs Lisp | 📅 2025-04-19
 * [NotDeft](https://github.com/hasu/notdeft) ⭐ 176 | 🐛 6 | 🌐 Emacs Lisp | 📅 2026-02-09
-* [neuron-mode](https://github.com/felko/neuron-mode) ⭐ 116 | 🐛 13 | 🌐 Emacs Lisp | 📅 2022-07-18
+* [neuron-mode](https://github.com/felko/neuron-mode) ⭐ 117 | 🐛 13 | 🌐 Emacs Lisp | 📅 2022-07-18
 * [zettel-mode](https://github.com/vifon/zettel-mode) ⭐ 32 | 🐛 0 | 🌐 Emacs Lisp | 📅 2022-06-26
 * [org-roam](https://www.orgroam.com)
 * [Zetteldeft](https://www.eliasstorms.net/zetteldeft/)
@@ -92,7 +93,7 @@
 * [notenote.link](https://github.com/Maxence-L/notenote.link) ⭐ 163 | 🐛 7 | 🌐 HTML | 📅 2022-10-15. A [Jekyll](https://jekyllrb.com) digital garden template, optimized for integration with [Obsidian](https://obsidian.md).
 * [slipbox](https://github.com/lggruspe/slipbox) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2023-09-16. A static site generator for Zettelkasten notes.
 * [vizel](https://github.com/BasilPH/vizel) ⭐ 60 | 🐛 9 | 🌐 Python | 📅 2024-02-28. See the stats and connections of your Zettelkasten.
-* [zk-reindex-launchd](https://github.com/johntrandall/zk-reindex-launchd) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-04-30. macOS LaunchAgent that auto-reindexes [zk](https://github.com/zk-org/zk) ⭐ 2,836 | 🐛 35 | 🌐 Go | 📅 2026-10-09 notebooks on a schedule. Set-and-forget — keeps queries (CLI, LSP, MCP) current after edits made outside an LSP-aware editor.
+* [zk-reindex-launchd](https://github.com/johntrandall/zk-reindex-launchd) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-04-30. macOS LaunchAgent that auto-reindexes [zk](https://github.com/zk-org/zk) ⭐ 2,837 | 🐛 35 | 🌐 Go | 📅 2026-10-09 notebooks on a schedule. Set-and-forget — keeps queries (CLI, LSP, MCP) current after edits made outside an LSP-aware editor.
 
 ## Reference managers
 
@@ -103,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
