@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8445,
+            "stars": 8447,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 803,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7466,
+            "stars": 7467,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 36,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2838,
+            "stars": 2841,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T00:51:51Z",
+            "last_commit": "2026-10-17T22:21:12Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1774,
+            "stars": 1778,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -189,7 +189,7 @@
             "open_issues": 40,
             "owner": "renerocksai",
             "repo": "sublimeless_zk",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "markdown",
               "markdown-editor",
@@ -237,11 +237,11 @@
             "id": 1104105962,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T17:09:07Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-17T21:11:16Z",
+            "open_issues": 15,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 12,
+            "stars": 17,
             "topics": [
               "angular",
               "audiobooks",
@@ -507,7 +507,7 @@
             "open_issues": 7,
             "owner": "Maxence-L",
             "repo": "notenote.link",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "digital-garden",
               "jekyll",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:59:45.455Z",
+    "last_updated": "2026-10-18T07:15:33.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
