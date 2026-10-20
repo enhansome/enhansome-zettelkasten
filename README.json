@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8448,
+            "stars": 8449,
             "topics": [
               "archiving",
               "bash",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6295,
+            "stars": 6296,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -114,11 +114,11 @@
             "id": 323932509,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T12:42:31Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-19T14:15:53Z",
+            "open_issues": 35,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2843,
+            "stars": 2845,
             "topics": [
               "cli",
               "documentation-tool",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1779,
+            "stars": 1784,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,7 +212,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T21:10:25Z",
+            "last_commit": "2026-10-20T01:14:13Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -237,11 +237,11 @@
             "id": 1104105962,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T05:50:52Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-19T19:10:46Z",
+            "open_issues": 4,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 19,
+            "stars": 21,
             "topics": [
               "angular",
               "audiobooks",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:51:04.635Z",
+    "last_updated": "2026-10-20T07:38:16.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
