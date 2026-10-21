@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8449,
+            "stars": 8450,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 803,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7467,
+            "stars": 7469,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 35,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2845,
+            "stars": 2846,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T18:03:42Z",
+            "last_commit": "2026-10-20T23:27:32Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1784,
+            "stars": 1786,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,7 +212,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T01:14:13Z",
+            "last_commit": "2026-10-20T16:45:21Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -236,12 +236,12 @@
             "homepage": "nostos.page",
             "id": 1104105962,
             "language": "C#",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-19T19:10:46Z",
-            "open_issues": 4,
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T06:38:33Z",
+            "open_issues": 24,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "angular",
               "audiobooks",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:38:16.433Z",
+    "last_updated": "2026-10-21T07:42:34.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
