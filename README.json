@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8450,
+            "stars": 8453,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 803,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7469,
+            "stars": 7468,
             "topics": [
               "dendron",
               "markdown",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1786,
+            "stars": 1790,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,7 +212,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T16:45:21Z",
+            "last_commit": "2026-10-21T15:17:37Z",
             "open_issues": 2,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -237,11 +237,11 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T06:38:33Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-22T07:04:43Z",
+            "open_issues": 7,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "angular",
               "audiobooks",
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:42:34.730Z",
+    "last_updated": "2026-10-22T07:38:11.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
@@ -615,7 +615,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-14T21:10:25Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "fhoehl",
       "repo": "awesome-zettelkasten",
       "stars": 105,

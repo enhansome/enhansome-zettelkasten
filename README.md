@@ -16,14 +16,14 @@
 
 ### Apps
 
-* [nb](https://github.com/xwmx/nb) ⭐ 8,450 | 🐛 154 | 🌐 Shell | 📅 2026-08-26
-* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,469 | 🐛 803 | 🌐 TypeScript | 📅 2025-11-13
+* [nb](https://github.com/xwmx/nb) ⭐ 8,453 | 🐛 154 | 🌐 Shell | 📅 2026-08-26
+* [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,468 | 🐛 803 | 🌐 TypeScript | 📅 2025-11-13
 * [Athens](https://github.com/athensresearch/athens) ⭐ 6,296 | 🐛 318 | 🌐 Clojure | 📅 2023-02-03
 * [zk](https://github.com/zk-org/zk) ⭐ 2,846 | 🐛 35 | 🌐 Go | 📅 2026-10-19. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,786 | 🐛 1 | 🌐 Rust | 📅 2026-10-20
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,790 | 🐛 1 | 🌐 Rust | 📅 2026-10-20
 * [Sublimeless\_ZK](https://github.com/renerocksai/sublimeless_zk) ⭐ 205 | 🐛 40 | 🌐 Python | 📅 2019-02-03
-* [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-10-20
-* [Nostos](https://github.com/Christian-Gennari/Nostos) ⭐ 22 | 🐛 24 | 🌐 C# | 📅 2026-10-21
+* [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 2 | 🌐 Elm | 📅 2026-10-21
+* [Nostos](https://github.com/Christian-Gennari/Nostos) ⭐ 23 | 🐛 7 | 🌐 C# | 📅 2026-10-22
 * [Amplenote](https://www.amplenote.com)
 * [Bear](https://bear.app)
 * [ConnectedText](http://www.connectedtext.com/)
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
