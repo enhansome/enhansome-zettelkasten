@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8453,
+            "stars": 8455,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 803,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7468,
+            "stars": 7469,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6296,
+            "stars": 6297,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 35,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2846,
+            "stars": 2848,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,7 +143,7 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T23:27:32Z",
+            "last_commit": "2026-10-23T00:12:16Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
@@ -202,6 +202,39 @@
         },
         {
           "node_type": "item",
+          "title": "Nostos",
+          "description": "Christian-Gennari/Nostos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A home for your reading life. Read your books, capture what stays with you, and turn your reading into thought and writing in one self-hosted study.",
+            "homepage": "nostos.page",
+            "id": 1104105962,
+            "language": "C#",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-23T07:21:37Z",
+            "open_issues": 7,
+            "owner": "Christian-Gennari",
+            "repo": "Nostos",
+            "stars": 25,
+            "topics": [
+              "angular",
+              "audiobooks",
+              "dotnet",
+              "epub-reader",
+              "local-first",
+              "pdf-viewer",
+              "pkm",
+              "reading",
+              "self-hosted",
+              "sqlite",
+              "writing"
+            ]
+          },
+          "first_seen": "2026-10-15T07:29:36.525Z"
+        },
+        {
+          "node_type": "item",
           "title": "zknotes",
           "description": "bburdette/zknotes",
           "children": [],
@@ -224,39 +257,6 @@
             ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Nostos",
-          "description": "Christian-Gennari/Nostos",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A home for your reading life. Read your books, capture what stays with you, and turn your reading into thought and writing in one self-hosted study.",
-            "homepage": "nostos.page",
-            "id": 1104105962,
-            "language": "C#",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T07:04:43Z",
-            "open_issues": 7,
-            "owner": "Christian-Gennari",
-            "repo": "Nostos",
-            "stars": 23,
-            "topics": [
-              "angular",
-              "audiobooks",
-              "dotnet",
-              "epub-reader",
-              "local-first",
-              "pdf-viewer",
-              "pkm",
-              "reading",
-              "self-hosted",
-              "sqlite",
-              "writing"
-            ]
-          },
-          "first_seen": "2026-10-15T07:29:36.525Z"
         }
       ],
       "title": "Apps"
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:38:11.749Z",
+    "last_updated": "2026-10-23T07:35:42.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
