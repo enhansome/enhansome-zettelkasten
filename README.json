@@ -61,7 +61,7 @@
             "open_issues": 803,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7469,
+            "stars": 7470,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6297,
+            "stars": 6298,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -115,10 +115,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T14:15:53Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2850,
+            "stars": 2852,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:12:16Z",
+            "last_commit": "2026-10-25T02:17:17Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1790,
+            "stars": 1793,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,8 +212,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T07:17:49Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-24T20:28:12Z",
+            "open_issues": 11,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 25,
@@ -606,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:20:51.714Z",
+    "last_updated": "2026-10-25T07:37:32.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
