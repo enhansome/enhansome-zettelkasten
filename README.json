@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8459,
+            "stars": 8458,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 803,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7469,
+            "stars": 7470,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6298,
+            "stars": 6299,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -115,10 +115,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T14:15:53Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2856,
+            "stars": 2857,
             "topics": [
               "cli",
               "documentation-tool",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1799,
+            "stars": 1801,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,11 +212,11 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T18:06:29Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-28T08:12:10Z",
+            "open_issues": 7,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 26,
+            "stars": 28,
             "topics": [
               "angular",
               "audiobooks",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T07:55:42.041Z",
+    "last_updated": "2026-10-28T08:37:44.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
