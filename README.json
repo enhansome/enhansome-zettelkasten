@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8462,
+            "stars": 8461,
             "topics": [
               "archiving",
               "bash",
@@ -144,10 +144,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T01:28:06Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1803,
+            "stars": 1806,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,11 +212,11 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T07:09:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-30T08:08:57Z",
+            "open_issues": 4,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "angular",
               "audiobooks",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:34:11.563Z",
+    "last_updated": "2026-10-30T08:41:51.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
