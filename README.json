@@ -15,11 +15,11 @@
             "id": 49516849,
             "language": "Shell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T03:20:37Z",
+            "last_commit": "2026-11-02T00:42:50Z",
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8461,
+            "stars": 8462,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7467,
+            "stars": 7466,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6299,
+            "stars": 6300,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 31,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2863,
+            "stars": 2864,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T01:28:06Z",
+            "last_commit": "2026-11-01T12:11:01Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1808,
+            "stars": 1810,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -207,20 +207,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source, self-hosted commonplace book for readers and writers. Read EPUBs, PDFs and audiobooks, keep passages with their sources, and bring them into drafts.",
+            "description": "Everything you read and write, in one place: a self-hosted, open-source home for ebooks, PDFs, audiobooks and paper books, with highlights, notes and a writing studio.",
             "homepage": "nostos.page",
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T15:54:29Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-01T21:30:09Z",
+            "open_issues": 4,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 29,
             "topics": [
               "angular",
               "audiobooks",
-              "commonplace-book",
               "dotnet",
               "epub-reader",
               "local-first",
@@ -608,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:19:07.229Z",
+    "last_updated": "2026-11-02T09:34:03.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
