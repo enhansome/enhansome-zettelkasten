@@ -115,7 +115,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-31T19:10:41Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "zk-org",
             "repo": "zk",
             "stars": 2864,
@@ -143,7 +143,7 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T02:38:16Z",
+            "last_commit": "2026-11-04T01:00:35Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
@@ -212,7 +212,7 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T22:00:30Z",
+            "last_commit": "2026-11-03T21:40:23Z",
             "open_issues": 4,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:36:58.036Z",
+    "last_updated": "2026-11-04T09:20:43.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
