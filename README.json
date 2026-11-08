@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8465,
+            "stars": 8466,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7465,
+            "stars": 7466,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 31,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2865,
+            "stars": 2867,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T13:45:46Z",
+            "last_commit": "2026-11-07T12:38:33Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1817,
+            "stars": 1819,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,8 +212,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T14:42:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-07T16:34:28Z",
+            "open_issues": 7,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 30,
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:51:02.307Z",
+    "last_updated": "2026-11-08T09:04:07.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
