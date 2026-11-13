@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8471,
+            "stars": 8473,
             "topics": [
               "archiving",
               "bash",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6301,
+            "stars": 6300,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -118,7 +118,7 @@
             "open_issues": 32,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2871,
+            "stars": 2872,
             "topics": [
               "cli",
               "documentation-tool",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1823,
+            "stars": 1824,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,8 +212,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T01:23:17Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-13T08:14:56Z",
+            "open_issues": 68,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 30,
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:53:24.582Z",
+    "last_updated": "2026-11-13T09:36:16.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",

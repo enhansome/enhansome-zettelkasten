@@ -16,13 +16,13 @@
 
 ### Apps
 
-* [nb](https://github.com/xwmx/nb) ⭐ 8,471 | 🐛 154 | 🌐 Shell | 📅 2026-11-11
+* [nb](https://github.com/xwmx/nb) ⭐ 8,473 | 🐛 154 | 🌐 Shell | 📅 2026-11-11
 * [Dendron](https://github.com/dendronhq/dendron) ⭐ 7,470 | 🐛 804 | 🌐 TypeScript | 📅 2025-11-13
-* [Athens](https://github.com/athensresearch/athens) ⭐ 6,301 | 🐛 318 | 🌐 Clojure | 📅 2023-02-03
-* [zk](https://github.com/zk-org/zk) ⭐ 2,871 | 🐛 32 | 🌐 Go | 📅 2026-11-10. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
-* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,823 | 🐛 1 | 🌐 Rust | 📅 2026-11-11
+* [Athens](https://github.com/athensresearch/athens) ⭐ 6,300 | 🐛 318 | 🌐 Clojure | 📅 2023-02-03
+* [zk](https://github.com/zk-org/zk) ⭐ 2,872 | 🐛 32 | 🌐 Go | 📅 2026-11-10. Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
+* [IWE](https://github.com/iwe-org/iwe) ⭐ 1,824 | 🐛 1 | 🌐 Rust | 📅 2026-11-11
 * [Sublimeless\_ZK](https://github.com/renerocksai/sublimeless_zk) ⭐ 205 | 🐛 40 | 🌐 Python | 📅 2019-02-03
-* [Nostos](https://github.com/Christian-Gennari/Nostos) ⭐ 30 | 🐛 3 | 🌐 C# | 📅 2026-11-12
+* [Nostos](https://github.com/Christian-Gennari/Nostos) ⭐ 30 | 🐛 68 | 🌐 C# | 📅 2026-11-13
 * [zknotes](https://github.com/bburdette/zknotes) ⭐ 24 | 🐛 1 | 🌐 Elm | 📅 2026-11-10
 * [Amplenote](https://www.amplenote.com)
 * [Bear](https://bear.app)
@@ -93,7 +93,7 @@
 * [notenote.link](https://github.com/Maxence-L/notenote.link) ⭐ 164 | 🐛 7 | 🌐 HTML | 📅 2022-10-15. A [Jekyll](https://jekyllrb.com) digital garden template, optimized for integration with [Obsidian](https://obsidian.md).
 * [slipbox](https://github.com/lggruspe/slipbox) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2023-09-16. A static site generator for Zettelkasten notes.
 * [vizel](https://github.com/BasilPH/vizel) ⭐ 60 | 🐛 9 | 🌐 Python | 📅 2024-02-28. See the stats and connections of your Zettelkasten.
-* [zk-reindex-launchd](https://github.com/johntrandall/zk-reindex-launchd) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-04-30. macOS LaunchAgent that auto-reindexes [zk](https://github.com/zk-org/zk) ⭐ 2,871 | 🐛 32 | 🌐 Go | 📅 2026-11-10 notebooks on a schedule. Set-and-forget — keeps queries (CLI, LSP, MCP) current after edits made outside an LSP-aware editor.
+* [zk-reindex-launchd](https://github.com/johntrandall/zk-reindex-launchd) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-04-30. macOS LaunchAgent that auto-reindexes [zk](https://github.com/zk-org/zk) ⭐ 2,872 | 🐛 32 | 🌐 Go | 📅 2026-11-10 notebooks on a schedule. Set-and-forget — keeps queries (CLI, LSP, MCP) current after edits made outside an LSP-aware editor.
 
 ## Reference managers
 
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
