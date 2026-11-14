@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8473,
+            "stars": 8474,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7470,
+            "stars": 7472,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6300,
+            "stars": 6299,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -114,7 +114,7 @@
             "id": 323932509,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T16:05:18Z",
+            "last_commit": "2026-11-13T18:29:34Z",
             "open_issues": 32,
             "owner": "zk-org",
             "repo": "zk",
@@ -212,11 +212,11 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T08:14:56Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-14T08:01:40Z",
+            "open_issues": 17,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
-            "stars": 30,
+            "stars": 31,
             "topics": [
               "angular",
               "audiobooks",
@@ -246,7 +246,7 @@
             "id": 280745117,
             "language": "Elm",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T17:14:02Z",
+            "last_commit": "2026-11-13T18:59:04Z",
             "open_issues": 1,
             "owner": "bburdette",
             "repo": "zknotes",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:36:16.337Z",
+    "last_updated": "2026-11-14T09:01:03.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
@@ -616,7 +616,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-14T21:10:25Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "fhoehl",
       "repo": "awesome-zettelkasten",
       "stars": 105,
