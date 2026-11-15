@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8474,
+            "stars": 8476,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7472,
+            "stars": 7473,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 32,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2872,
+            "stars": 2873,
             "topics": [
               "cli",
               "documentation-tool",
@@ -212,8 +212,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T08:01:40Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-14T22:50:56Z",
+            "open_issues": 7,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 31,
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:01:03.198Z",
+    "last_updated": "2026-11-15T09:30:15.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
