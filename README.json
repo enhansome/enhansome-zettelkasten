@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8476,
+            "stars": 8477,
             "topics": [
               "archiving",
               "bash",
@@ -115,10 +115,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T21:20:48Z",
-            "open_issues": 30,
+            "open_issues": 33,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2873,
+            "stars": 2872,
             "topics": [
               "cli",
               "documentation-tool",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1825,
+            "stars": 1827,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -478,7 +478,7 @@
             "open_issues": 20,
             "owner": "MatthieuBizien",
             "repo": "roam-to-git",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "backlink",
               "backup",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:49:55.120Z",
+    "last_updated": "2026-11-17T10:47:02.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
@@ -616,7 +616,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-14T21:10:25Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "fhoehl",
       "repo": "awesome-zettelkasten",
       "stars": 105,
