@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6299,
+            "stars": 6298,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -115,10 +115,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-18T15:15:18Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2874,
+            "stars": 2873,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,7 +143,7 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T17:47:16Z",
+            "last_commit": "2026-11-20T01:02:01Z",
             "open_issues": 2,
             "owner": "iwe-org",
             "repo": "iwe",
@@ -212,8 +212,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T19:28:25Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-20T08:48:50Z",
+            "open_issues": 4,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 31,
@@ -478,7 +478,7 @@
             "open_issues": 20,
             "owner": "MatthieuBizien",
             "repo": "roam-to-git",
-            "stars": 553,
+            "stars": 552,
             "topics": [
               "backlink",
               "backup",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:25:31.572Z",
+    "last_updated": "2026-11-20T10:05:05.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
