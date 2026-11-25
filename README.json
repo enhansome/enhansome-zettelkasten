@@ -15,11 +15,11 @@
             "id": 49516849,
             "language": "Shell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T04:33:24Z",
+            "last_commit": "2026-11-25T05:25:13Z",
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8480,
+            "stars": 8484,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7474,
+            "stars": 7475,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 34,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2882,
+            "stars": 2881,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T13:06:09Z",
+            "last_commit": "2026-11-24T21:42:00Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1841,
+            "stars": 1844,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -212,8 +212,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T21:25:31Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T19:29:22Z",
+            "open_issues": 5,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 31,
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:33:14.428Z",
+    "last_updated": "2026-11-25T11:22:41.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
