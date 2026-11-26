@@ -19,7 +19,7 @@
             "open_issues": 154,
             "owner": "xwmx",
             "repo": "nb",
-            "stars": 8484,
+            "stars": 8487,
             "topics": [
               "archiving",
               "bash",
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7475,
+            "stars": 7474,
             "topics": [
               "dendron",
               "markdown",
@@ -118,7 +118,7 @@
             "open_issues": 34,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2881,
+            "stars": 2883,
             "topics": [
               "cli",
               "documentation-tool",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T11:22:41.445Z",
+    "last_updated": "2026-11-26T10:57:54.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
