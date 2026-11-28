@@ -16,7 +16,7 @@
             "language": "Shell",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-25T05:25:13Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "xwmx",
             "repo": "nb",
             "stars": 8488,
@@ -61,7 +61,7 @@
             "open_issues": 804,
             "owner": "dendronhq",
             "repo": "dendron",
-            "stars": 7474,
+            "stars": 7473,
             "topics": [
               "dendron",
               "markdown",
@@ -89,7 +89,7 @@
             "open_issues": 318,
             "owner": "athensresearch",
             "repo": "athens",
-            "stars": 6298,
+            "stars": 6297,
             "topics": [
               "hacktoberfest",
               "knowledge-base",
@@ -114,11 +114,11 @@
             "id": 323932509,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T23:32:38Z",
+            "last_commit": "2026-11-27T23:32:49Z",
             "open_issues": 34,
             "owner": "zk-org",
             "repo": "zk",
-            "stars": 2884,
+            "stars": 2885,
             "topics": [
               "cli",
               "documentation-tool",
@@ -143,11 +143,11 @@
             "id": 860188605,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T21:42:00Z",
+            "last_commit": "2026-11-28T02:59:35Z",
             "open_issues": 1,
             "owner": "iwe-org",
             "repo": "iwe",
-            "stars": 1847,
+            "stars": 1848,
             "topics": [
               "ai-agents",
               "ai-memory",
@@ -167,8 +167,7 @@
               "pkm",
               "productivity",
               "rust",
-              "zed",
-              "zettelkasten"
+              "zed"
             ]
           },
           "first_seen": "2026-08-28T14:23:14.400Z"
@@ -212,8 +211,8 @@
             "id": 1104105962,
             "language": "C#",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T19:29:22Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-27T17:18:47Z",
+            "open_issues": 1,
             "owner": "Christian-Gennari",
             "repo": "Nostos",
             "stars": 32,
@@ -607,7 +606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:56:00.885Z",
+    "last_updated": "2026-11-28T10:31:04.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Zettelkasten resources.",
